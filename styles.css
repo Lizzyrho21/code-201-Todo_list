@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+	padding: 0;
+
+}
+
+.main-container{background-color:  hsl(235, 21%, 11%);}
+
+.header{
+background-color: rgb(136, 68, 135);
+}
+.header h1{
+    text-align:left;
+    margin-left:300px;
+    letter-spacing: 5px;
+
+}
+
+.main-container{}
+
+
+.form{}
+
+button:hover{
+    background-color:rgb(46, 136, 233); 
+    color:#f1f1f1;
+}
+
+.todolist-container{}
+
+.todo-list{}
+
+
+.footer{}
